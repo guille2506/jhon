@@ -1,0 +1,17 @@
+# ---- Backend (Java / Maven) ----
+backend/target/
+
+# ---- Frontend (Node / Vite) ----
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/*.tsbuildinfo
+
+# ---- Misc ----
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.iml
+.env
+.env.local
